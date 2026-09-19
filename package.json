@@ -6,8 +6,6 @@
     "start": "node check-wolf.js"
   },
   "dependencies": {
-    "adm-zip": "^0.5.16",
-    "playwright": "^1.55.0",
     "sharp": "^0.34.3",
     "socket.io-client": "^4.8.1",
     "wolf.js": "2.7.10"
